@@ -4,3 +4,4 @@ select 'Second commit at 19:26'
 select 'Third comment which will not be committed to GitHub'
 select 42
 select 'New changes for stashing'
+select 'Friday'
